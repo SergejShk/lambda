@@ -70,8 +70,4 @@ const requestEnterString = () => {
   });
 };
 
-const sortString = () => {
-  requestEnterString();
-};
-
-sortString();
+requestEnterString();
