@@ -1,0 +1,27 @@
+[
+  {
+    "name": "tiny",
+    "gender": "female",
+    "age": 23
+  },
+  {
+    "name": "mika",
+    "gender": "male",
+    "age": 24
+  },
+  {
+    "name": "tom",
+    "gender": "male",
+    "age": 22
+  },
+  {
+    "name": "dan",
+    "gender": "male",
+    "age": 32
+  },
+  {
+    "name": "bob",
+    "gender": "male",
+    "age": 31
+  }
+]

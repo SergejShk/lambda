@@ -2,9 +2,9 @@
   "name": "tasks",
   "version": "1.0.0",
   "description": "",
-  "main": "cliInteractiveSoft/index.js",
+  "main": "cliPrimitiveDB/index.js",
   "scripts": {
-    "start": "node cliInteractiveSoft/index.js",
+    "start": "node cliPrimitiveDB/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SergejShk/lambda/issues"
   },
-  "homepage": "https://github.com/SergejShk/lambda#readme"
+  "homepage": "https://github.com/SergejShk/lambda#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
