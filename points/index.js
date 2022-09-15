@@ -28,4 +28,4 @@ function convertStringToArrayOfStringsWithPoints(
   return arrOfStrings;
 }
 
-console.log(convertStringToArrayOfStringsWithPoints("abc"));
+console.log(convertStringToArrayOfStringsWithPoints("abcd"));

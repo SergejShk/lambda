@@ -23,5 +23,10 @@
     "name": "bob",
     "gender": "male",
     "age": 31
+  },
+  {
+    "name": "user",
+    "gender": "female",
+    "age": 22
   }
 ]
