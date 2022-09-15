@@ -1,0 +1,17 @@
+[
+  {
+    "action": "-m, --message",
+    "value": "message",
+    "description": "send message"
+  },
+  {
+    "action": "-ph, --photo",
+    "value": "path",
+    "description": "send photo"
+  },
+  {
+    "action": "-h, --help",
+    "value": "",
+    "description": "show options"
+  }
+]
