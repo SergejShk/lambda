@@ -27,7 +27,7 @@ const invokeOptions = async (option) => {
       break;
 
     case "photo":
-      bot.sendPhoto(chatId, option.photo);
+      await bot.sendPhoto(chatId, option.photo);
       break;
 
     case "help":
